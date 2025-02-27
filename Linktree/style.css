@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+
+}
+
+button{
+    display: flex;
+    background-color: #07FF5A;
+    padding: 20px 90px;
+    border-radius: 50px;
+    align-items: center;
+    margin-top: 25px;
+}
+
+h1{
+    display: flex;
+    padding: 15px 15px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.btn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 72px;
+}
